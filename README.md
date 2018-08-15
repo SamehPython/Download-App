@@ -1,5 +1,5 @@
 # Download-App
-PyDownloader ... Python Download Manager ... with Python PyQt5 & QT Designer <br>
+PyDownloader ... Python Download Manager ...Developed By Sameh Dorgham Akl ... with Python PyQt5 & QT Designer <br>
 ...
 The Application Download : Files + Youtube Videos + Youtube PlayList <br>
 ...
